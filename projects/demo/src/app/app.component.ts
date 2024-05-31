@@ -5,7 +5,7 @@ import { MatSnackBar } from '@angular/material/snack-bar';
 import {
   MatCarouselSlideComponent,
   Orientation
-} from 'ng-mat-carousel';
+} from '../../../carousel/src/public_api';
 
 @Component({
   selector: 'mat-root',
